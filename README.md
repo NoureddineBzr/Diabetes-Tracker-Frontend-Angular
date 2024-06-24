@@ -26,10 +26,4 @@ L'application **Diabetes Tracker Frontend** est une application Angular conçue 
 - Angular CLI installé globalement (`npm install -g @angular/cli`)
 - Accès à l'API backend développée avec Spring Boot
 
-## Installation
 
-1. Clonez le repository :
-   ```bash
-   git clone https://github.com/votre-utilisateur/Diabetes-Tracker-Frontend-Angular.git
-   cd Diabetes-Tracker-Frontend-Angular
-# Diabetes-Tracker-Frontend-Angular
